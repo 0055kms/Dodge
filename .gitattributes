@@ -1,5 +1,4 @@
-# 자동 생성된 유니티 폴더들 제외
-[Library/] linguist-generated=true
-[Temp/] linguist-generated=true
-[Obj/] linguist-generated=true
-[Logs/] linguist-generated=true
+Library/ linguist-generated=true
+Temp/ linguist-generated=true
+Obj/ linguist-generated=true
+Logs/ linguist-generated=true
